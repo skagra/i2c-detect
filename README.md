@@ -27,4 +27,4 @@ Scanning for I2C devices
 Done
 ```
 
-The above shows a device detected the address `0x3C`.
+The above shows a device detected at the address `0x3C`.

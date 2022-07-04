@@ -1,6 +1,6 @@
 # I2C Detect
 
-A simple sketch to scan for attached i2c addresses and to display their respective addresses.
+An *Arduino* sketch to scan for attached `i2c` devices and to display their respective addresses.
 
 Output takes the following format:
 
